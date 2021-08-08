@@ -1,0 +1,16 @@
+{
+  "name": "clockreader",
+  "version": "1.0.0",
+  "description": "takes a digital time object and provides the time in words",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6",
+    "jest-each": "^27.0.6",
+    "to-words": "^2.4.0"
+  }
+}
