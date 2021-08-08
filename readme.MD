@@ -12,10 +12,6 @@ The black and white specification here is to produce something that can read the
 
 With some text-to-speech software and a nifty UI, this could be good for teaching kids to tell the time.
 
-Maybe a rounding option would be good:  
-`tellTime(12:12) returns "twelve minutes past twelve"`  
-`tellTime(12:12, round) returns "ten past twelve"`
-
 ## process:
 
 Input time is two params: (hours, minutes). Will change this when I change back to OOP.  
