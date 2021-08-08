@@ -18,8 +18,13 @@ Maybe a rounding option would be good:
 
 ## process:
 
-Input time will be an object like `{'hour':3, 'minute':17}`.  
-The process of changing numbers to words will be handled by [to-words](https://www.npmjs.com/package/to-words) from npm.
+Input time is two params: (hours, minutes). Will change this when I change back to OOP.  
+The process of changing numbers to words is handled by [to-words](https://www.npmjs.com/package/to-words) from npm.
 
 Half wrote a project specification and then wrote the code by accident!  
 Works OK now. Next is to implement a time picker and text to speech!
+
+## next:
+
+Time picker ideas ?  
+Test-to-speech ideas ?
