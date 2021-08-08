@@ -5,8 +5,8 @@ The black and white specification here is to produce something that can read the
 
 ## examples:
 
-`tellTime(09:05) returns "five past nine"`  
-`tellTime(10:45) returns "quarter to eleven"`
+`tellTime(09,05) returns "five past nine"`  
+`tellTime(10,45) returns "quarter to eleven"`
 
 ## ideas:
 
