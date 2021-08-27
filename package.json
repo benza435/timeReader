@@ -2,15 +2,17 @@
   "name": "clockreader",
   "version": "1.0.0",
   "description": "takes a digital time object and provides the time in words",
-  "main": "index.js",
+  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "expo": "^42.0.3",
     "jest": "^27.0.6",
     "jest-each": "^27.0.6",
+    "react-native": "^0.64.2",
     "to-words": "^2.4.0"
   }
 }

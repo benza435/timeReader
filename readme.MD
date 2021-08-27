@@ -23,4 +23,4 @@ Works OK now. Next is to implement a time picker and text to speech!
 ## next:
 
 Time picker ideas ?  
-Test-to-speech ideas ?
+Text-to-speech ideas ?

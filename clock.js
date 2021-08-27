@@ -1,6 +1,5 @@
 const { ToWords } = require('to-words');
 const toWords = new ToWords();
-
 class Time {
 	constructor() {}
 }
